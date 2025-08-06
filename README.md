@@ -1,4 +1,4 @@
-👋 Hello, I'm XYZ
+👋 Hello, I'm Rishiraj
 
 I'm a **MERN Stack Developer** with a solid foundation in **Computer Science fundamentals** and **Java programming**. I specialize in building full-stack web applications using modern technologies and clean architectural patterns.
 
