@@ -1,6 +1,6 @@
 👋 Hello, I'm Rishiraj
 
-I'm a **MERN Stack Developer** with a solid foundation in **Computer Science fundamentals** and **Java programming**. I specialize in building full-stack web applications using modern technologies and clean architectural patterns.
+I'm a **MERN Stack Developer** with a solid foundation in **Computer Science fundamentals** like Data Structures and Algorithms and OOP. I specialize in building full-stack web applications using modern technologies and clean architectural patterns.
 
 Currently, I'm expanding my skills in **Artificial Intelligence** and **Machine Learning** with Python, driven by a strong interest in data-driven problem-solving.
 
@@ -8,11 +8,11 @@ Currently, I'm expanding my skills in **Artificial Intelligence** and **Machine 
 
 🛠️ Tech Stack
 
-- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS  
+- **Frontend:** React.js, Next.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB, MySQL  
-- **Languages:** Java, JavaScript, Python (for ML)  
-- **Tools & Platforms:** Git, GitHub, Postman, VS Code, npm
+- **Languages:** JavaScript, Java, Python (for ML)  
+- **Tools & Platforms:** Git, GitHub, Postman, VS Code, npm,
 
 ---
 
