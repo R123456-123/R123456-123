@@ -1,6 +1,6 @@
 👋 Hello, I'm Rishiraj
 
-I'm a **MERN Stack Developer** with a solid foundation in **Computer Science fundamentals** like **Data Structures and Algorithms and OOP**. I specialize in building full-stack web applications using modern technologies and clean architectural patterns.
+I'm a **Developer** with a solid foundation in **Computer Science fundamentals** like **Data Structures and Algorithms and OOP**. I specialize in building full-stack web applications using modern technologies and clean architectural patterns.
 
 Currently, I'm expanding my skills in **Artificial Intelligence** and **Machine Learning** with Python, driven by a strong interest in data-driven problem-solving.
 
