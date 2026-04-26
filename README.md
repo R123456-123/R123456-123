@@ -1,30 +1,37 @@
 👋 Hello, I'm Rishiraj
 
-I'm a **Developer** with a solid foundation in **Computer Science fundamentals** like **Data Structures and Algorithms and OOP**. I specialize in building full-stack web applications using modern technologies and clean architectural patterns.
-
-Currently, I'm expanding my skills in **Artificial Intelligence** and **Machine Learning** with Python, driven by a strong interest in data-driven problem-solving.
+I'm a Computer Science student in my final semester, evolving into an **AI Engineer** and a **Backend-Heavy Full Stack Developer**. I am deeply passionate about System Design, focusing on building scalable architectures, reliable model evaluation pipelines, and verifiable safety guardrails for frontier systems.
 
 ---
 
 🛠️ Tech Stack
 
-- **Frontend:** React.js, Next.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, MySQL  
-- **Languages:** JavaScript, Java, Python (for ML)  
+- **Core Domains:** System Design, AI Engineering, AI Alignment & Scalable Oversight
+- **Languages:** TypeScript, Python, Java
+- **Backend Frameworks:** Fastify, FastAPI, Express.js, Node.js
+- **Databases & ORMs: PostgreSQL, Prisma, Drizzle, MongoDB
+- **Data Validation:** Zod, Pydantic
+- **AI Architecture:** Multi-agent orchestration (Actor-Evaluator pipelines), LLM-as-a-judge, and leveraging free/open-source LLM agent tooling
 - **Tools & Platforms:** Git, GitHub, Postman, VS Code, npm,
 
 ---
 
-🚀 Ongoing Focus
+🚀 What I'm Currently Working On
 
-- 🤖 Learning **Machine Learning** fundamentals using Python  
-- 🧩 Practicing **Data Structures & Algorithms** in Java  
-- 🛠️ Building and contributing to full-stack projects  
-- 📦 Exploring scalable backend architectures and clean code practices
+- Architecting Oracle Flow: Designing a highly scalable, multi-agent orchestration backend for AI-powered real estate collateral valuation and liquidity assessment.
+- Mastering System Design: Exploring complex backend architectures, data modeling, and orchestration patterns for modern web applications.
+- AI Safety Testing: Conducting empirical stress-tests on AI evaluation pipelines against adversarial recall, prompt injections, and out-of-distribution data.
+- Hackathons & Independent Research: Building at the intersection of RWA and DeFi for the Colosseum Frontier Hackathon, while continuing independent research into AI engineering, alignment, and multi-agent systems.
 
 ---
+🏆 Competitive Programming & Problem Solving
 
+- Unstop: Top 0.1%
+- NeetCode: Top 2.5% (150+ problems solved)
+- LeetCode: 250+ problems solved
+- Core Focus: Advanced Data Structures, Algorithms, and optimized logic execution.
+
+---
 📬 Get in Touch
 
 - 📧 Email: rishirajt781@gmail.com 
