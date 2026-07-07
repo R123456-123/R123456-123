@@ -1,18 +1,8 @@
 👋 Hello, I'm Rishiraj
 
-I'm a Computer Science student in my final semester, evolving into an **AI Engineer** and a **Backend-Heavy Full Stack Developer**. I am deeply passionate about System Design, focusing on building scalable, intelligent systems that solve real-world problems at the intersection of AI and distributed systems.
+I'm a Computer Science graduate, evolving into an **AI Engineer** and a **Backend-Heavy Full Stack Developer**. I am deeply passionate about System Design, focusing on building scalable, intelligent systems that solve real-world problems at the intersection of AI and distributed systems.
 
----
-
-🛠️ Tech Stack
-
-- **Core Domains:** System Design, AI Engineering, AI Alignment & Scalable Oversight
-- **Languages:** TypeScript, Python, Java
-- **Backend Frameworks:** Fastify, FastAPI, Express.js, Node.js
-- **Databases & ORMs:** PostgreSQL, Prisma, Drizzle, MongoDB
-- **Data Validation:** Zod, Pydantic
-- **AI Architecture:** Multi-agent orchestration (Actor-Evaluator pipelines), LLM-as-a-judge, and leveraging free/open-source LLM agent tooling
-- **Tools & Platforms:** Git, GitHub, Postman, VS Code, npm
+Currently i am working on AI safety and Alignment in my project and research.
 
 ---
 
@@ -26,25 +16,8 @@ I'm a Computer Science student in my final semester, evolving into an **AI Engin
 
 ---
 
-🏆 Competitive Programming & Problem Solving
-
-- Unstop: Top 0.1%
-- NeetCode: Top 2.5% (150+ problems solved)
-- LeetCode: 250+ problems solved
-- Core Focus: Advanced Data Structures, Algorithms, and optimized logic execution.
-
----
-
 📬 Get in Touch
 
 - 📧 Email: rishirajt781@gmail.com 
 - 💼 LinkedIn: https://www.linkedin.com/in/rishiraj-tanwar
 - 🌐 Portfolio: https://meportfolio-umber.vercel.app/
-
----
-
-💡 About Me
-
-- 🔍 Curious by nature, I enjoy understanding how systems work end-to-end  
-- ⚙️ Focused on writing maintainable, testable, and efficient code  
-- 🌱 Always learning and staying up-to-date with emerging technologies
